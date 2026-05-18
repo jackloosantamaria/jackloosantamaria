@@ -59,9 +59,9 @@ https://www.kaggle.com/code/jackloo20/bellabeat-case-study-smart-device-usage-an
 
 ## 📊 GitHub Stats
 
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackloosantamaria&show_icons=true&theme=tokyonight)
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackloosantamaria&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackloosantamaria&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackloosantamaria&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
