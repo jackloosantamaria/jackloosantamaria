@@ -21,7 +21,7 @@ I'm **Jack Loo**, a Bilingual **Business & Data Analyst** with experience in dat
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" title="SQL" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40" title="R" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tableau/tableau-original.svg" width="40" height="40" title="Tableau" />&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" title="Tableau" />&nbsp;
 </div>
 
 ### **Programming & Software Development**
